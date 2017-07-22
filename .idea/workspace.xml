@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77dc80fb-a6a7-4e64-aebb-cc22b7b23b2e" name="Default" comment="new">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Software Hardware List.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/static/uploads/apple-iphone-5-front.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/static/uploads/apple-iphone-5-front.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/translations/fr/LC_MESSAGES/messages.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/keybd_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/keybd_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/keybd_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/keybd_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/static/uploads/apple-iphone-5-front.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/translations/fr/LC_MESSAGES/messages.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/keybd_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/keybd_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/keybd_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/keybd_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/static/uploads/apple-iphone-5-front.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/translations/fr/LC_MESSAGES/messages.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/dist/Flask_YouTube-0.1-py2.7.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/.coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/dist/Flask_YouTube-0.1-py2.7.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/dist/Flask_YouTube-0.1-py2.7.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Software Hardware List.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Flask-Building-Python-Web-Services.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter01/hello.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter01/hello.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter02/headlines.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter02/headlines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter02/headlines.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter03/headlines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter03/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter04/headlines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter04/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter05/headlines.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter05/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/crimemap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/crimemap.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/db_setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/dbconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/dbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/misc/crimemap.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter06/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/crimemap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/db_setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/dbconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/dbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/misc/crimemap.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/misc/crimemap.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/mockdbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter07/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/crimemap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/db_setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/dbconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/dbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/misc/crimemap.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/misc/crimemap.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/mockdbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter08/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/mockdbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/passwordhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/waitercaller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter09/waitercaller.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/bitlyhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/mockbitlyhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/mockdbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/passwordhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/templates/account.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/templates/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/templates/home_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/waitercaller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter10/waitercaller.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/bitlyhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/create_mongo_indices.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/dbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/mockbitlyhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/mockdbhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/passwordhelper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/templates/account.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/templates/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/waitercaller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/Chapter11/waitercaller.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 1/ReadMe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/my_app/hello/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/my_app/hello/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/my_app/hello/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter01/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/product/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/product/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/product/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter02/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/migrations/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/migrations/alembic.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/migrations/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/migrations/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/migrations/versions/538264df91d2_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter03/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter04/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/category-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter05/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/auth/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/auth/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/auth/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/my_app/templates/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter06/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter07/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/auth/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/auth/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/auth/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/admin-home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/some-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/user-create-admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/user-update-admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/my_app/templates/users-list-admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter08/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/babel.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/messages.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/category-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/my_app/translations/fr/LC_MESSAGES/messages.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter09/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/app_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/application.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/coverage_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/jquery.isonscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/jquery.tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/my_app_catalog_models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/my_app_catalog_views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/status.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/coverage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/generate_profile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/coverage_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/jquery.isonscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/jquery.tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/my_app___init__.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/my_app_catalog___init__.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/my_app_catalog_models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/my_app_catalog_views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/status.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/htmlcov/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/babel.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/messages.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/category-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/my_app/translations/fr/LC_MESSAGES/messages.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter10/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/apache_wsgi.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/app.wsgi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/app_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/application.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/application.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/coverage_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/jquery.isonscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/jquery.tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/my_app_catalog_models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/my_app_catalog_views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/status.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/coverage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/fabfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/generate_profile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/coverage_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/jquery.isonscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/jquery.tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/my_app___init__.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/my_app_catalog___init__.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/my_app_catalog_models.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/my_app_catalog_views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/status.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/htmlcov/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/babel.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/messages.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/category-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/my_app/translations/fr/LC_MESSAGES/messages.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/newrelic.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/nginx-wsgi.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/tornado_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter11/uwsgi.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/catalog/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/catalog/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/catalog/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/static/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/category-create-email-html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/category-create-email-text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/product-create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/my_app/templates/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 2/Chapter12/run.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter01/chapter_1/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter01/chapter_1/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter01/chapter_1/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/migrations/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/migrations/alembic.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/migrations/env.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/migrations/script.py.mako" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter02/chapter_2/migrations/versions/7ded34bc4fb_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/templates/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/templates/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter03/chapter_3/templates/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter04/chapter_4/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter05/chapter_5/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter06/Chapter 6/chapter_6/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/css/formbuilder-min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/js/vendor/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/static/js/vendor/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter07/chapter_7/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/rest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/rest/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/rest/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/rest/parsers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/controllers/rest/post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter08/chapter_8/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/celery_runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/rest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/rest/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/rest/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/rest/parsers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/controllers/rest/post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/digest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter09/chapter_9/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/celery_runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/rest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/rest/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/rest/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/rest/parsers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/controllers/rest/post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/static/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/admin/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/admin/post_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/admin/second_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/digest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter10/Chapter 10/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/Flask_YouTube.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/Flask_YouTube.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/Flask_YouTube.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/Flask_YouTube.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/Flask_YouTube.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/build/lib/flask_youtube/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/flask_youtube/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/flask_youtube/templates/youtube/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/Flask-YouTube/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/celery_runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/rest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/rest/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/rest/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/rest/parsers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/controllers/rest/post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/static/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/admin/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/admin/post_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/admin/second_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/digest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter11/Chapter 11/webapp/templates/youtube/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-GZip/flask_gzip/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-GZip/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/Flask_YouTube.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/Flask_YouTube.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/Flask_YouTube.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/Flask_YouTube.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/Flask_YouTube.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/build/lib/flask_youtube/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/flask_youtube/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/flask_youtube/templates/youtube/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/Flask-YouTube/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/celery_runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/run_test_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/tests/test_ui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/tests/test_urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/rest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/rest/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/rest/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/rest/parsers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/controllers/rest/post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/.webassets-cache/49d7031c832760f1c8af0e8f1f9a1954" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/.webassets-cache/592e4efb9c5f8cd91720dd6d646679e7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/.webassets-cache/593c7cdfba4d0c04f3e56780333b67bb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/.webassets-cache/677b6b8fc43f52ebf6307be93396d33b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/.webassets-cache/cc4f5a625c710457f3da55054fb81d39" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/.webassets-cache/efe2845331acfbfa19510a0d780942a5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/static/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/admin/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/admin/post_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/admin/second_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/digest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter12/chapter_12/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-GZip/flask_gzip/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-GZip/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/Flask_YouTube.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/Flask_YouTube.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/Flask_YouTube.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/Flask_YouTube.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/Flask_YouTube.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/build/lib/flask_youtube/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/flask_youtube/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/flask_youtube/templates/youtube/video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Flask-YouTube/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/application.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/celery_runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/fabfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/gserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/nginx.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/run_test_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/runtime.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/supervisor.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/tests/test_ui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/tests/test_urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/tserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/uwsgi.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/blog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/rest/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/rest/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/rest/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/rest/parsers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/controllers/rest/post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/extensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/.webassets-cache/49d7031c832760f1c8af0e8f1f9a1954" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/.webassets-cache/592e4efb9c5f8cd91720dd6d646679e7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/.webassets-cache/593c7cdfba4d0c04f3e56780333b67bb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/.webassets-cache/677b6b8fc43f52ebf6307be93396d33b" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/.webassets-cache/cc4f5a625c710457f3da55054fb81d39" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/.webassets-cache/efe2845331acfbfa19510a0d780942a5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/static/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/admin/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/admin/post_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/admin/second_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/blog/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/digest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/main/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/main/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/webapp/templates/main/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module 3/Chapter13/Chapter 13/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Flask-Building-Python-Web-Services$hello.coverage" NAME="hello Coverage Results" MODIFIED="1500707147011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 1/Chapter01" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Module 1/Chapter01/hello.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/requirements" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/hello.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1604" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask-Building-Python-Web-Services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask-Building-Python-Web-Services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Администратор\PycharmProjects\Flask-Building-Python-Web-Services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hello">
+    <configuration default="false" name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module 1/Chapter01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Администратор\PycharmProjects\Flask-Building-Python-Web-Services\hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Flask-Building-Python-Web-Services" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.hello" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77dc80fb-a6a7-4e64-aebb-cc22b7b23b2e" name="Default" comment="" />
+      <created>1500627296675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500627296675</updated>
+    </task>
+    <task id="LOCAL-00001" summary="r">
+      <created>1500707747962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500707747962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1500707927046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500707927046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new">
+      <created>1500708563380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500708563380</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new">
+      <created>1500708669893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1500708669893</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <created>1500711401411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1500711401411</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1604" height="886" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="r" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter11/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter05/headlines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter02/headlines.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter02/headlines.wsgi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter01/hello.wsgi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter11/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module 1/Chapter01/hello.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
