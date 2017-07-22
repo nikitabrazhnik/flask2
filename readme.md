@@ -8,7 +8,7 @@ framework, Flask.
 * Store user and static data in SQL and NoSQL databases and use this data to power
 your web applications
 * Create a good user experience by combining HTML, CSS, and JavaScript
-* Harness the convenience of freely available APIs, including OpenWeatherMap, Open 
+* Harness theh convenience of freely available APIs, including OpenWeatherMap, Open
 Exchange Rates, and bitly
 * Extend your applications to build advanced functionality, such as a user account 
 control system using Flask-Login
